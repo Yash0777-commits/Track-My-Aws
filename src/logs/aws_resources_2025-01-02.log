@@ -1,0 +1,10 @@
+Invalid service. Please enter a valid service.
+Listing EC2 Instances in us-east-1
+Listing EC2 Instances in us-east-1
+{
+    "Reservations": []
+}
+Listing Lambda Functions in us-east-1
+{
+    "Functions": []
+}
